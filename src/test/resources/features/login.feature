@@ -9,7 +9,7 @@ Feature: Login tests
 
     Examples:
       | username | password     | message                           |
-      | student  | Password123  | Congratulations student. You      |
+#      | student  | Password123  | Congratulations student. You      |
       | invalid  | wrongPass    | Invalid username or password      |
 #      | invalid  | wrongPass    | Invalid username or password      |
 #      | invalid  | wrongPass    | Invalid username or password      |

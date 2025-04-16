@@ -1,0 +1,145 @@
+2025-04-16 15:26:49 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:26:52 - Login page is successfully loaded.
+2025-04-16 15:26:52 - Entering username: student
+2025-04-16 15:26:52 - Entering password for username: Password123
+2025-04-16 15:26:53 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:26:53 - Clicking the submit button.
+2025-04-16 15:26:53 - Verifying success message: Congratulations student. You
+2025-04-16 15:26:54 - Success message is displayed.
+2025-04-16 15:26:56 - Login page is successfully loaded.
+2025-04-16 15:26:56 - Entering username: invalid
+2025-04-16 15:26:56 - Entering password for username: wrongPass
+2025-04-16 15:26:57 - Clicking the submit button.
+2025-04-16 15:26:57 - Verifying success message: Invalid username or password
+2025-04-16 15:37:30 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:37:32 - Login page is successfully loaded.
+2025-04-16 15:37:32 - Entering username: student
+2025-04-16 15:37:32 - Entering password for username: Password123
+2025-04-16 15:37:33 - Clicking the submit button.
+2025-04-16 15:37:33 - Verifying success message: Congratulations student. You
+2025-04-16 15:37:33 - Success message is displayed.
+2025-04-16 15:37:34 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:37:36 - Login page is successfully loaded.
+2025-04-16 15:37:36 - Entering username: invalid
+2025-04-16 15:37:37 - Entering password for username: wrongPass
+2025-04-16 15:37:37 - Clicking the submit button.
+2025-04-16 15:37:37 - Verifying success message: Invalid username or password
+2025-04-16 15:48:56 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:48:59 - Login page is successfully loaded.
+2025-04-16 15:48:59 - Entering username: student
+2025-04-16 15:48:59 - Entering password for username: Password123
+2025-04-16 15:48:59 - Clicking the submit button.
+2025-04-16 15:48:59 - Verifying success message: Congratulations student. You
+2025-04-16 15:48:59 - Success message is displayed.
+2025-04-16 15:49:01 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:49:04 - Login page is successfully loaded.
+2025-04-16 15:49:04 - Entering username: invalid
+2025-04-16 15:49:04 - Entering password for username: wrongPass
+2025-04-16 15:49:04 - Clicking the submit button.
+2025-04-16 15:49:04 - Verifying success message: Invalid username or password
+2025-04-16 15:50:35 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:50:37 - Login page is successfully loaded.
+2025-04-16 15:50:37 - Entering username: invalid
+2025-04-16 15:50:37 - Entering password for username: wrongPass
+2025-04-16 15:50:37 - Clicking the submit button.
+2025-04-16 15:50:37 - Verifying success message: Invalid username or password
+2025-04-16 15:50:39 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:50:41 - Login page is successfully loaded.
+2025-04-16 15:50:41 - Entering username: student
+2025-04-16 15:50:42 - Entering password for username: Password123
+2025-04-16 15:50:42 - Clicking the submit button.
+2025-04-16 15:50:42 - Verifying success message: Congratulations student. You
+2025-04-16 15:50:42 - Success message is displayed.
+2025-04-16 15:56:48 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:56:48 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 15:56:51 - Login page is successfully loaded.
+2025-04-16 15:56:51 - Entering username: student
+2025-04-16 15:56:51 - Login page is successfully loaded.
+2025-04-16 15:56:51 - Entering username: invalid
+2025-04-16 15:56:51 - Entering password for username: wrongPass
+2025-04-16 15:56:51 - Entering password for username: Password123
+2025-04-16 15:56:51 - Clicking the submit button.
+2025-04-16 15:56:51 - Verifying success message: Invalid username or password
+2025-04-16 15:56:52 - Clicking the submit button.
+2025-04-16 15:56:52 - Verifying success message: Congratulations student. You
+2025-04-16 15:56:52 - Success message is displayed.
+2025-04-16 15:57:55 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 15:57:59 - Login page is successfully loaded.
+2025-04-16 15:57:59 - Entering username: student
+2025-04-16 15:57:59 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 15:58:03 - Login page is successfully loaded.
+2025-04-16 15:58:03 - Entering username: invalid
+2025-04-16 16:02:31 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:02:33 - Login page is successfully loaded.
+2025-04-16 16:02:33 - Entering username: invalid
+2025-04-16 16:02:36 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:02:38 - Login page is successfully loaded.
+2025-04-16 16:02:38 - Entering username: student
+2025-04-16 16:03:09 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 16:03:13 - Login page is successfully loaded.
+2025-04-16 16:03:13 - Entering username: student
+2025-04-16 16:03:13 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 16:04:08 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:04:11 - Login page is successfully loaded.
+2025-04-16 16:04:11 - Entering username: invalid
+2025-04-16 16:04:13 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:04:15 - Login page is successfully loaded.
+2025-04-16 16:04:15 - Entering username: student
+2025-04-16 16:04:43 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 16:04:47 - Login page is successfully loaded.
+2025-04-16 16:04:47 - Entering username: student
+2025-04-16 16:04:47 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 16:04:56 - Login page is successfully loaded.
+2025-04-16 16:04:56 - Entering username: invalid
+2025-04-16 16:15:14 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:15:17 - Login page is successfully loaded.
+2025-04-16 16:15:17 - Entering username: student
+2025-04-16 16:15:18 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:15:20 - Login page is successfully loaded.
+2025-04-16 16:15:20 - Entering username: invalid
+2025-04-16 16:15:50 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 16:15:54 - Login page is successfully loaded.
+2025-04-16 16:15:54 - Entering username: invalid
+2025-04-16 16:15:56 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 16:16:05 - Login page is successfully loaded.
+2025-04-16 16:16:05 - Entering username: student
+2025-04-16 16:16:30 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:16:33 - Login page is successfully loaded.
+2025-04-16 16:16:33 - Entering username: student
+2025-04-16 16:16:35 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:16:37 - Login page is successfully loaded.
+2025-04-16 16:16:37 - Entering username: invalid
+2025-04-16 16:17:48 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:17:51 - Login page is successfully loaded.
+2025-04-16 16:17:51 - Entering username: student
+2025-04-16 16:17:53 - Navigating to the login page: https://github.com/mfaisalkhatri/web-automation-playwright-java/tree/main/src
+2025-04-16 16:17:55 - Login page is successfully loaded.
+2025-04-16 16:17:55 - Entering username: invalid
+2025-04-16 16:18:36 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 16:18:38 - Login page is successfully loaded.
+2025-04-16 16:18:38 - Entering username: invalid
+2025-04-16 16:18:38 - Entering password for username: wrongPass
+2025-04-16 16:18:38 - Clicking the submit button.
+2025-04-16 16:18:38 - Verifying success message: Invalid username or password
+2025-04-16 16:18:40 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 16:18:43 - Login page is successfully loaded.
+2025-04-16 16:18:43 - Entering username: student
+2025-04-16 16:18:43 - Entering password for username: Password123
+2025-04-16 16:18:44 - Clicking the submit button.
+2025-04-16 16:18:44 - Verifying success message: Congratulations student. You
+2025-04-16 16:18:44 - Success message is displayed.
+2025-04-16 16:19:42 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 16:19:45 - Login page is successfully loaded.
+2025-04-16 16:19:45 - Entering username: invalid
+2025-04-16 16:19:45 - Entering password for username: wrongPass
+2025-04-16 16:19:45 - Clicking the submit button.
+2025-04-16 16:19:45 - Verifying success message: Invalid username or password
+2025-04-16 16:20:31 - Navigating to the login page: https://practicetestautomation.com/practice-test-login/
+2025-04-16 16:20:33 - Login page is successfully loaded.
+2025-04-16 16:20:33 - Entering username: invalid
+2025-04-16 16:20:33 - Entering password for username: wrongPass
+2025-04-16 16:20:34 - Clicking the submit button.
+2025-04-16 16:20:34 - Verifying success message: Invalid username or password
+2025-04-16 16:21:21 - Navigating to the login page: https://playwright.dev/java/docs/codegen-intro
+2025-04-16 16:21:26 - Login page is successfully loaded.
+2025-04-16 16:21:26 - Entering username: invalid
