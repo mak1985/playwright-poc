@@ -1,0 +1,8 @@
+<extentreports>
+    <configuration>
+        <reportName>Extent Report</reportName>
+        <documentTitle>Test Report</documentTitle>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+    </configuration>
+</extentreports>

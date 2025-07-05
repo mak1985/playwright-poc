@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ai.zencoder.plugin.chat.index">
+    <option name="chatMetadata" value="{&quot;b3545c43-af5c-4835-b17a-5900d2f7593f&quot;:{&quot;id&quot;:&quot;b3545c43-af5c-4835-b17a-5900d2f7593f&quot;,&quot;title&quot;:&quot;Create Unit Tests for Browsers&quot;,&quot;createdAt&quot;:1751632060865,&quot;updatedAt&quot;:1751632124476,&quot;isAgent&quot;:true,&quot;isUnitTestsAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:2,&quot;lastMessagePreview&quot;:&quot;I'll help you generate tests for the `createBrowser` method. Let me first search for this method in ...&quot;}}" />
+  </component>
+</project>

@@ -1,9 +1,0 @@
-pba:
-  browser: chromium
-  url:
-    login: https://practicetestautomation.com/practice-test-login/
-
-ipb:
-  browser: firefox
-  url:
-    login: https://playwright.dev/java/docs/codegen-intro

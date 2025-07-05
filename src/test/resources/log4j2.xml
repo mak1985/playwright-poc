@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- Console with ANSI Colors -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout disableAnsi="false" noConsoleNoAnsi="false">
+                <Pattern>
+                    %style{%d{HH:mm:ss.SSS}}{cyan} %highlight{[%t] %-5level %c{1} - %msg%n}
+                </Pattern>
+            </PatternLayout>
+        </Console>
+
+        <!-- File Appender -->
+        <File name="FileLogger" fileName="logs/test-execution.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5p %c{1} - %m%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
+        </Root>
+    </Loggers>
+</Configuration>

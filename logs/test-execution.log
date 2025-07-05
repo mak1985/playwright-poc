@@ -1,0 +1,22 @@
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginSteps - Navigated to Swag Labs login page: https://www.saucedemo.com
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginPage - Trying to type into element with retry. Max retries: 3
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginPage - Typing successful on attempt 1
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginSteps - Entering username: standard_user
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginPage - Trying to type into element with retry. Max retries: 3
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginPage - Typing successful on attempt 1
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginSteps - Entering password: secret_sauce
+2025-07-05 23:32:35 [ForkJoinPool-3-worker-2] INFO  LoginPage - Trying to click on element with retry. Max retries: 3
+2025-07-05 23:32:36 [ForkJoinPool-3-worker-2] INFO  LoginPage - Click successful on attempt 1
+2025-07-05 23:32:36 [ForkJoinPool-3-worker-2] INFO  LoginSteps - Clicked login button
+2025-07-05 23:32:36 [ForkJoinPool-3-worker-2] INFO  LoginSteps - Login successful, redirected to Products page.
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginSteps - Navigated to Swag Labs login page: https://www.saucedemo.com
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginPage - Trying to type into element with retry. Max retries: 3
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginPage - Typing successful on attempt 1
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginSteps - Entering username: standard_user
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginPage - Trying to type into element with retry. Max retries: 3
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginPage - Typing successful on attempt 1
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginSteps - Entering password: secret_sauce
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginPage - Trying to click on element with retry. Max retries: 3
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginPage - Click successful on attempt 1
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginSteps - Clicked login button
+2025-07-05 23:32:40 [ForkJoinPool-3-worker-1] INFO  LoginSteps - Login successful, redirected to Products page.
